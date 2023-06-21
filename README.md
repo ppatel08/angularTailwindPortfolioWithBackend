@@ -1,1 +1,11 @@
 # angularTailwindPortfolioWithBackend
+
+Simple youtube video to show my progress on the repository.
+
+# Installation
+- Clone the Project and npm install
+
+# Goal
+- 1st Video: How to install Angular, NodeJS, Tailwind CSS
+- 2nd Video: How to convert HTML Template into Angular and how I am thinking about making component
+- 3rd Video: How to pass the static data from the TS file 
