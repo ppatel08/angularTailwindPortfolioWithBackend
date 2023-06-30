@@ -1,0 +1,61 @@
+{
+  "personal": {
+    "firstName": "Priyank",
+    "lastName": "Patel",
+    "emailAddress": "priyank.patel118@gmail.com",
+    "profileURL": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "address": {
+      "city": "Detroit",
+      "state": "MI"
+    },
+    "taglines": [
+      "I am Priyank Patel",
+      "I am Full Stack Developer",
+      "I love Programming"
+    ],
+    "resumeURL": "https://google.com"
+  },
+  "aboutMe": {
+    "jobTitle": "Full Stack Developer",
+    "description": "<p>I help you build brand for your business at an affordable price. Thousands of clients have procured exceptional results while working with our dedicated team. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><br/><p>Delivering work within time and budget which meets client’s requirements is our moto. Lorem Ipsum has been the industry's standard dummy text ever when an unknown printer took a galley. Lorem Ipsum has been the industry's standard dummy text ever when an unknown printer took a galley.</p>"
+  },
+  "skills": ["HTML", "CSS", "Javascript", "Jquery", "Angular", "React", ".net"],
+  "resume": [
+    {
+      "jobtitle": "Full Stack Developer",
+      "companyName": "My Work Place name",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum. Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.",
+      "tags": ["html", "css", "Javascript", ".net", "angular"],
+      "startDate": "2019-01-01",
+      "endDate": "2022-01-10"
+    },
+    {
+      "jobtitle": "Full Stack Developer",
+      "companyName": "My Work Place name 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum. Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.",
+      "tags": ["html", "css", "Javascript", ".net", "angular"],
+      "startDate": "2019-01-01",
+      "endDate": "2022-01-10"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "React Portfolio",
+      "link": "google.com",
+      "imgURL": "https://dummyimage.com/600x360",
+      "category": ["React", ".net"]
+    },
+    {
+      "title": "Angular Portfolio",
+      "link": "google.com",
+      "imgURL": "https://dummyimage.com/600x360",
+      "category": ["Angular", ".net"]
+    },
+    {
+      "title": "Angular Portfolio",
+      "link": "google.com",
+      "imgURL": "https://dummyimage.com/600x360",
+      "category": ["TailWindCSS"]
+    }
+  ]
+}
