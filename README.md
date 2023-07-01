@@ -1,6 +1,7 @@
 # angularTailwindPortfolioWithBackend
 
 Simple youtube video to show my progress on the repository.
+https://www.youtube.com/watch?v=94bs5FQFLhY&list=PLcuEj1m9ppivH7X5Yn-nNHM4Of5yYbEyb
 
 # Installation
 - Clone the Project and npm install
