@@ -11,9 +11,9 @@
                 <h5 class="font-roboto text-white text-4xl md:text-5xl xl:text-6xl font-bold leading-tight">
                     Welcome</h5>
                 <h1 class="text-white text-4xl md:text-5xl xl:text-6xl font-bold leading-tight">
-                    I am Priyank Patel</h1>
-                <p class="text-blue-100 text-xl md:text-2xl leading-snug mt-4">based in Detroit, MI</p>
-                <a href="#"
+                    I am {{data.personal.firstName + " " + data.personal.lastName}}</h1>
+                <p class="text-blue-100 text-xl md:text-2xl leading-snug mt-4">based in {{data.personal.address.city + ", " + data.personal.address.state}}</p>
+                <a href={{data.personal.resumeURL}}
                     class="px-8 py-4 border border-blue-500 text-white rounded inline-block mt-8 font-semibold">Download
                     CV</a>
             </div>
